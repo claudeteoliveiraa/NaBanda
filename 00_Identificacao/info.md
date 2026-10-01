@@ -3,7 +3,7 @@
 - Ano letivo: 2026-2027
 - Semestre: 3º
 - Curso: Licenciatura em Engenharia Informática
-- Unidade(s) curricular(es): Projeto Mobile, Redes e Comunicação de Dados, Bases de Dados, Interfaces e Usabilidade, Matemática Discreta, Programação de Dispositivos Móveis
+- Unidades curriculares: Projeto Mobile, Redes e Comunicação de Dados, Bases de Dados, Interfaces e Usabilidade, Matemática Discreta, Programação de Dispositivos Móveis
 - Docentes: Fábio da Silva, Pedro Rosa, Miguel Boavida, Paula Neves, André Trocado, João Monge
 
 ## Resumo

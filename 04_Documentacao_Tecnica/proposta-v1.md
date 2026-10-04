@@ -2,7 +2,7 @@ NaBanda
 A tua localização, sempre por perto
 
 IADE — Projeto de Desenvolvimento Móvel
-Licenciatura em Engenharia e Informática 2026/2027
+Licenciatura em Engenharia Informática 2026/2027
 Proposta de Trabalho
 Elementos do grupo
 - Claudete Oliveira — 20250609
